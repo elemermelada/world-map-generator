@@ -8,7 +8,8 @@
      width="784.077px"
      height="458.627px"
      viewBox="30.767 241.591 784.077 458.627"
-     id="world-map">
+     id="world-map"
+     style="background-color:#7ed6ea">
 <title>Simple World Map</title>
 <desc>
     Author: Al MacDonald
